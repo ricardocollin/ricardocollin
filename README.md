@@ -9,10 +9,8 @@
 
 
 
- Atualmente busco uma vaga de front-end, estou totalmente focado em programação, busco aprimorar meus conhecimentos cada vez mais,
-gosto de resolver desafios e tenho ânsia em aprender.
+ ### Atualmente busco uma vaga de front-end, estou totalmente focado em programação, busco aprimorar meus conhecimentos cada vez mais,gosto de resolver desafios e tenho ânsia em aprender.
 
-</p>
 
 </div>
 <br>
@@ -24,7 +22,9 @@ gosto de resolver desafios e tenho ânsia em aprender.
 <br>
 <br>
 
-  <img align="center" height="400" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+
+  <img  height="450" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 
 <br>
@@ -34,7 +34,7 @@ gosto de resolver desafios e tenho ânsia em aprender.
 
 <br>
 
-<div align="center" dir="auto">  <h2>Contatos e Mídias Sociais</h2>
+<div align="center" dir="auto">  <h2> <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>Contatos e Mídias Sociais</h2>
 
 
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardocollinjunior/)
@@ -66,7 +66,7 @@ gosto de resolver desafios e tenho ânsia em aprender.
 
 
 
-<h2>Tecnologias / Aprendizados</h2>
+<h2> <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>Tecnologias / Aprendizados</h2>
 
 <div align="center" dir="auto">
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3e9c983d78f99fa0341408deab0431a9808c9a3b84c3eca791809678c3bb3bb6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d427269616e574275726b65266c61796f75743d636f6d70616374266c616e67735f636f756e743d35267468656d653d6769746875625f6461726b26686964655f626f726465723d74727565"><img height="200em" src="https://camo.githubusercontent.com/3e9c983d78f99fa0341408deab0431a9808c9a3b84c3eca791809678c3bb3bb6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d427269616e574275726b65266c61796f75743d636f6d70616374266c616e67735f636f756e743d35267468656d653d6769746875625f6461726b26686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianWBurke&amp;layout=compact&amp;langs_count=5&amp;theme=github_dark&amp;hide_border=true" style="max-width: 100%;"></a>
