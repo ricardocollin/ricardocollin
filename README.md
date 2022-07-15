@@ -24,7 +24,7 @@ gosto de resolver desafios e tenho ânsia em aprender.
 <br>
 <br>
 
-  <img align="center" height="650" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" height="400" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 
 <br>
