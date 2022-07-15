@@ -9,7 +9,7 @@
 
 
 
- ### Atualmente busco uma vaga de front-end, estou totalmente focado em programação, busco aprimorar meus conhecimentos, gosto de resolver desafios e tenho ânsia em aprender.
+ ### Atualmente busco uma vaga de front-end, estou totalmente focado em programação e busco aprimorar meus conhecimentos, gosto de resolver desafios e tenho ânsia em aprender.Possuo determinação, persistência , responsabilidade e principalmente dedicação.
 
 
 </div>
