@@ -59,6 +59,7 @@ gosto de resolver desafios e tenho ânsia em aprender.
   <img align="center" alt="Rc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   
   </div>
   
@@ -72,5 +73,10 @@ gosto de resolver desafios e tenho ânsia em aprender.
 
 
 </div>
+
+
+
+
+
 
 
