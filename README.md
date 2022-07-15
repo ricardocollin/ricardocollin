@@ -19,6 +19,9 @@ gosto de resolver desafios e tenho ânsia em aprender.
 <br>
 <br>
 
+<img align="center" width="500px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+
+
 <div align="center" dir="auto">  <h2>Contatos e Mídias Sociais</h2>
 
 
@@ -46,6 +49,9 @@ gosto de resolver desafios e tenho ânsia em aprender.
 <br>
 <br>
 <br>
+
+
+
 
 
 <h2>Tecnologias / Aprendizados</h2>
