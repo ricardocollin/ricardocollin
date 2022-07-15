@@ -9,7 +9,7 @@
 
 
 
- ### Atualmente busco uma vaga de front-end, estou totalmente focado em programação, busco aprimorar meus conhecimentos cada vez mais,gosto de resolver desafios e tenho ânsia em aprender.
+ ### Atualmente busco uma vaga de front-end, estou totalmente focado em programação, busco aprimorar meus conhecimentos, gosto de resolver desafios e tenho ânsia em aprender.
 
 
 </div>
@@ -24,7 +24,7 @@
 
 
 
-  <img  height="450" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img  height="450" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
 
 <br>
@@ -80,9 +80,17 @@
   <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   
   </div>
+  <h1></h1>
   
 
-<hr>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
 
 
 ![ricardocollin GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocollin&show_icons=true&theme=onedark)
