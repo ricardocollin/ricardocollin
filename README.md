@@ -3,14 +3,8 @@
 <h1> Olá, Eu sou o Ricardo Collin 👋👋🙂🙂 Sejam Bem vindos !!! </h1>
 
 
-<br>
-
-
  <p> Atualmente busco uma vaga de front-end, estou totalmente focado em programação e busco aprimorar meus conhecimentos, gosto de resolver desafios e tenho ânsia em aprender.Possuo determinação, persistência , responsabilidade e principalmente dedicação.</p>
  
- <br>
-
-
 
 <div>
   
@@ -18,9 +12,6 @@
   
   <img height="180em" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocollin&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
-
-<br>
-<br>
 
 
 </div>
