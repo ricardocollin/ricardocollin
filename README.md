@@ -24,7 +24,7 @@
 
 
 
-  <img  height="450" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img width='500px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
 
 <br>
