@@ -1,6 +1,6 @@
 
 <div>
-<h1 align="center" dir="auto"> Olá! Eu sou o Ricardo Collin 👋👋🙂🙂</h1>
+<h1 align="center" dir="auto"> Olá, Eu sou o Ricardo Collin 👋👋🙂🙂 Sejam Bem vindos !!!</h1>
 
 <br>
 <br>
