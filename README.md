@@ -5,7 +5,7 @@
 <br>
 
  Atualmente busco uma vaga de front-end, estou totalmente focado em programação, busco aprimorar meus conhecimentos cada vez mais,
-gosto de resolver desafios e tenho ânsia por aprender.
+gosto de resolver desafios e tenho ânsia em aprender.
 
 
 <hr>
