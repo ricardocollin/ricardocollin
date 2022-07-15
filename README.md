@@ -3,6 +3,11 @@
 <h1 align="center" dir="auto"> Olá! Eu sou o Ricardo Collin 👋👋🙂🙂</h1>
 
 <br>
+<br>
+<br>
+
+
+
 
  Atualmente busco uma vaga de front-end, estou totalmente focado em programação, busco aprimorar meus conhecimentos cada vez mais,
 gosto de resolver desafios e tenho ânsia em aprender.
@@ -19,8 +24,15 @@ gosto de resolver desafios e tenho ânsia em aprender.
 <br>
 <br>
 
-<img align="center" width="500px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="center" height="650" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+
+<br>
+<br>
+
+<br>
+
+<br>
 
 <div align="center" dir="auto">  <h2>Contatos e Mídias Sociais</h2>
 
