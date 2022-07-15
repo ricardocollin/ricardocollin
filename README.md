@@ -1,16 +1,25 @@
 
 <div>
-Olá! Eu sou o Ricardo Collin 👋👋🙂🙂
+<h1 align="center" dir="auto"> Olá! Eu sou o Ricardo Collin 👋👋🙂🙂</h1>
 
 <br>
 
  Atualmente busco uma vaga de front-end, estou totalmente focado em programação, busco aprimorar meus conhecimentos cada vez mais,
 gosto de resolver desafios e tenho ânsia em aprender.
 
-</div>
-<hr>
+</p>
 
-### Contatos e Mídias Sociais
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div align="center" dir="auto">  <h1>Contatos e Mídias Sociais</h1>
 
 
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardocollinjunior/)
@@ -18,10 +27,18 @@ gosto de resolver desafios e tenho ânsia em aprender.
 )](https://www.linkedin.com/in/ricardo-collin-junior-a7a199220)
 [![Social](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 )](https://www.facebook.com/ricardo.collinjunior.9)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<hr>
 
-### Tecnologias / Aprendizados
+<h1>Tecnologias / Aprendizados</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocollin&layout=compact)](https://github.com/ricardocollin/github-readme-stats)
 
@@ -42,5 +59,6 @@ gosto de resolver desafios e tenho ânsia em aprender.
 
 
 
+</div>
 
 
