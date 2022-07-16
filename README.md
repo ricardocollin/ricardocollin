@@ -42,8 +42,6 @@
 )](https://www.linkedin.com/in/ricardo-collin-junior-a7a199220)
 [![Social](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 )](https://www.facebook.com/ricardo.collinjunior.9)
-[![Social](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](https://wa.me/5511973790876)
 [![Social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 )](https://twitter.com/RicardoCollinJ1)
 [![Social](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/channels/691854417149820960)
